@@ -16,6 +16,12 @@ Fungsi `kategori_usia(usia)` digunakan untuk menentukan kategori usia seseorang:
 ### Output
 ![Output Soal 7](https://cdn.discordapp.com/attachments/1335953538785742869/1365368417036800010/Screenshot_From_2025-04-25_17-42-41.png?ex=680d0ded&is=680bbc6d&hm=0fec31d82dfa698d307d4547c85c0f19acbfbef602d3eba0c074913c1be94b2e)
 
+### Alasan:
+Lebih baik daripada if-else berulang karena:
+- Lebih mudah dibaca dan dipahami
+- Lebih efisien dalam pengecekan kondisi (tidak perlu mengecek semua kondisi jika sudah ditemukan yang cocok)
+- Meminimalisir duplikasi kode
+
 ---
 
 ## Soal 8
