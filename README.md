@@ -1,6 +1,6 @@
-# Praktikum Python - Soal 7 s.d. 10
+# Soal 7 s.d. 10
 
-Dokumen ini menjelaskan singkat masing-masing program dan menyertakan hasil outputnya.
+Menjelaskan singkat masing-masing program dan menyertakan hasil outputnya.
 
 ---
 
